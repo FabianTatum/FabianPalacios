@@ -2,8 +2,7 @@
 
 - Mira como lo hice en la carpeta [PortFolio-CV](https://github.com/FabianTatum/FabianPalacios/tree/gh-pages/Portfolio-CV)
 
-
-## CAPSULA DE PROYECTOS
+# CAPSULA DE PROYECTOS
 --------------------
 
 Hola, Soy Fabian!
