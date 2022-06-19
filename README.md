@@ -1,9 +1,9 @@
-- Visita mi sitio web [aquí](https://FabianTatum.github.io./FabianPalacios/Portfolio-CV)
+- Visita mi sitio web [AQUÍ](https://FabianTatum.github.io./FabianPalacios/Portfolio-CV)
 
 - Mira como lo hice en la carpeta [PortFolio-CV](https://github.com/FabianTatum/FabianPalacios/tree/gh-pages/Portfolio-CV)
 
 
-## PORTAFOLIO WEB
+## CAPSULA DE PROYECTOS
 --------------------
 
 Hola, Soy Fabian!
