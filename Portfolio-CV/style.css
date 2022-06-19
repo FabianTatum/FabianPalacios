@@ -138,7 +138,6 @@ p {
     display: flex;
     list-style: none;
     transition: transform 0.5s ease-in-out;
-    animation: carousel-slide 32s ease-in-out 3s;
 }
 
 .carousel input {
@@ -281,6 +280,11 @@ p {
     background-size: cover;
     background-position: center;
     background-attachment: var(--hero-attachment);
+}
+
+.hero-image-content {
+    width: 100%;
+    min-width: 320px
 }
 
 .hero-image-opacity {

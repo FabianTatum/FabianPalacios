@@ -17,6 +17,8 @@ Si quieres ir al repositorio original, solo debes dar click en el título de cad
 
 **Descripción**
 
+Este proyecto se realizo como parte del Diplomado en Desarrollo Web de la Universidad de Caldas.
+
 Proyecto CA PELICULAS es un aplicativo web el cual usamos para realizar reviews y criticas sobre los estrenos de octubre de 2022, así como realizar una reseña de los principales actores de estás peliculas.
 
 Está creada en un entorno .NET, realizado con un nuevo framework frontend llamado Blazor combinado con CSS, su backend está programado con el paradigma de Programación Orientada a Objetos con el lenguaje de Programación C#, principal lenguaje usado en el entorno Microsoft.
