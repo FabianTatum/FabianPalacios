@@ -9,7 +9,7 @@ Proyecto Henry Labs Individual... (Muy pronto estará completo este espacio)
 (Imagenes)
 ![](urlimagen)
 
-Puedes mas detalles del projecto [aquí](https://www.youtube.com).
+Puedes mas detalles del proyecto [aquí](https://www.youtube.com).
 
 --------------------
 
