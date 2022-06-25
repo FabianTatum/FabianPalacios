@@ -1,8 +1,9 @@
+# CAPSULA DE PROYECTOS
+
 - Visita mi sitio web [AQUÍ](https://FabianTatum.github.io./FabianPalacios/Portfolio-CV)
 
 - Mira como lo hice en la carpeta [PortFolio-CV](https://github.com/FabianTatum/FabianPalacios/tree/gh-pages/Portfolio-CV)
 
-# CAPSULA DE PROYECTOS
 --------------------
 
 Hola, Soy Fabian!
@@ -11,7 +12,21 @@ Bienvenidos a mi Capstone de Proyectos, aquí puedes encontrar un compendio de m
 
 Si quieres ir al repositorio original, solo debes dar click en el título de cada uno.
 
----------------------
+--------------------
+
+## [ETL E-COMMERCE ARGENTINA - DATA ENGINNER Y ANALYTICS](https://github.com/FabianTatum/ETL-E-Commerce-Python-SQL-Bash).
+
+**Descripción**
+
+Este proyecto es un informe de la calidad de datos de diferentes fuentes de un E-Commerce de Argentina, en donde evaluamos los valores existentes, cuales pueden presentar fallas, cuales estan incompletos, cuales estan nulos y ofrecemos algunas recomendaciones para modificar estos datos antes de subirlos a un data warehouse.
+
+Luego de evaluar esta calidad, procedemos a realizar un proceso de ETL automatizado, en donde limpiamos los datos, los transformamos y los cargamos a un data warehouse el cual se encuentra en un contenedor de Docker.
+
+![ETL-ECOMMERCE](https://media.giphy.com/media/4gBfjaKYWF85xAk1ya/giphy.gif)
+
+Puedes mas detalles del proyecto [aquí](https://github.com/FabianTatum/ETL-E-Commerce-Python-SQL-Bash).
+
+--------------------
 
 ## [CREATIVE AGENCY PELICULAS - APLICACIÓN WEB](https://github.com/FabianTatum/CA-Peliculas-CSharp-Oct-2021)
 
@@ -27,7 +42,7 @@ Está creada en un entorno .NET, realizado con un nuevo framework frontend llama
 
 [Video](https://youtu.be/Cqb6x9uxAlg)
 
-Puedes mas detalles del projecto [aquí](https://github.com/FabianTatum/CA-Peliculas-CSharp-Oct-2021).
+Puedes mas detalles del proyecto [aquí](https://github.com/FabianTatum/CA-Peliculas-CSharp-Oct-2021).
 
 ---------------------
 
@@ -45,4 +60,4 @@ El proyecto se encuentra realizandose en tecnologías como JavaScript, Node.js, 
 
 [Video](https://youtu.be/YniMaNeWVKw)
 
-Puedes mas detalles del projecto [aquí](https://github.com/FabianTatum/Ruta-App-Logistict-Enterprise).
+Puedes mas detalles del proyecto [aquí](https://github.com/FabianTatum/Ruta-App-Logistict-Enterprise).
