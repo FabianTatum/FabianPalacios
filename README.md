@@ -1,9 +1,6 @@
 # CAPSULA DE PROYECTOS
 
 - Visita mi sitio web [AQUÍ](https://FabianTatum.github.io./FabianPalacios/Portfolio-CV)
-
-- Mira como lo hice en la carpeta [PortFolio-CV](https://github.com/FabianTatum/FabianPalacios/tree/gh-pages/Portfolio-CV)
-
 --------------------
 
 Hola, Soy Fabian!
@@ -13,8 +10,19 @@ Bienvenidos a mi Capstone de Proyectos, aquí puedes encontrar un compendio de m
 Si quieres ir al repositorio original, solo debes dar click en el título de cada uno.
 
 --------------------
+## [NYC TAXI TRIPS ANALYSIS - DATA ENGINNER Y ANALYTICS](https://github.com/FabianTatum/NEW-YORK-TAXIS-ETL-AND-ANALYSIS).
 
-## [ETL E-COMMERCE ARGENTINA - DATA ENGINNER Y ANALYTICS](https://github.com/FabianTatum/ETL-E-Commerce-Python-SQL-Bash).
+Puedes ver el funcionamiento de este proyecto aquí: https://www.youtube.com/watch?v=uSbqEe54I6Q&t=4s
+
+**Descripción**
+
+Este proyecto es una canalización de datos para realizar un análisis sobre el comportamiento en los viajes de los taxis en la ciudad de Nueva York, integrando también diferentes fuentes de datos como el clima para saber que tanto influia este en los viajes. Este proceso se realiza desde las fuentes de sus datos, su extracción y transformación, hasta ser almacenados de forma relacional en un data warehouse, y ser utilizado por cualquier herramienta de visualización, en este caso la principal fue Dash, la cual nos permitio realizar un informe para la web.
+
+![NYC TAXI TRIPS - DATA ANALYSIS](https://media.giphy.com/media/RJfHc0SISU3O23n61V/giphy.gif)
+
+--------------------
+
+## [ETL E-COMMERCE ARGENTINA - DATA ENGINNER Y ANALYTICS](https://github.com/FabianTatum/ETL-ECOMMERCE-PYTHON-BASH).
 
 **Descripción**
 
@@ -28,6 +36,16 @@ Puedes mas detalles del proyecto [aquí](https://github.com/FabianTatum/ETL-E-Co
 
 --------------------
 
+## [S&P500 ANALISIS ENTRE DIAS DE LA SEMANA - ANALYTICS](https://github.com/FabianTatum/S-P500-ANALYSIS-DASH).
+
+**Descripción**
+
+Iniciando en el mundo de las finanazas, decidí poner en contexto algunos conceptos basicos que se manejan en el día a día en el trabajo con acciones, para esto, utilice la API de Yahoo Finance `yfinance` para manipular datos y ver los diferentes comportamientos de un indice tan importante como el S&P500 en plazos tan largos como decadas y en plazos tan cortos como días de la semana, en este caso decidí utilizar Dash como herramienta de visualización, y que gracias a esta puedo subir mi informe a la Web.
+
+![SP500 IMAGES](https://media.giphy.com/media/FGNRLeJxeojSmek2Tp/giphy.gif)
+--------------------
+
+
 ## [CREATIVE AGENCY PELICULAS - APLICACIÓN WEB](https://github.com/FabianTatum/CA-Peliculas-CSharp-Oct-2021)
 
 **Descripción**
@@ -40,7 +58,7 @@ Está creada en un entorno .NET, realizado con un nuevo framework frontend llama
 
 ![CA PELICULAS](https://media.giphy.com/media/jTMBeu4fkmTAsPu4fD/giphy.gif)
 
-[Video](https://youtu.be/Cqb6x9uxAlg)
+Puedes ver mas de el diseño de este proyecto en este [Video](https://youtu.be/Cqb6x9uxAlg).
 
 Puedes mas detalles del proyecto [aquí](https://github.com/FabianTatum/CA-Peliculas-CSharp-Oct-2021).
 
@@ -58,6 +76,6 @@ El proyecto se encuentra realizandose en tecnologías como JavaScript, Node.js, 
 
 ![RUTA LOGISTIC APP](https://media.giphy.com/media/cHaukBD7SLn6zI97D4/giphy.gif)
 
-[Video](https://youtu.be/YniMaNeWVKw)
+Puedes ver apartes del esquema de este proyecto en este [Video](https://youtu.be/YniMaNeWVKw).
 
 Puedes mas detalles del proyecto [aquí](https://github.com/FabianTatum/Ruta-App-Logistict-Enterprise).
