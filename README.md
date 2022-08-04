@@ -24,6 +24,8 @@ Este proyecto es una canalización de datos para realizar un análisis sobre el 
 
 ## [ETL E-COMMERCE ARGENTINA - DATA ENGINNER Y ANALYTICS](https://github.com/FabianTatum/ETL-ECOMMERCE-PYTHON-BASH).
 
+Puedes ver el informe de calidad de datos aquí: https://github.com/FabianTatum/ETL-ECOMMERCE-PYTHON-BASH/blob/main/data-quality-info.ipynb
+
 **Descripción**
 
 Este proyecto es un informe de la calidad de datos de diferentes fuentes de un E-Commerce de Argentina, en donde evaluamos los valores existentes, cuales pueden presentar fallas, cuales estan incompletos, cuales estan nulos y ofrecemos algunas recomendaciones para modificar estos datos antes de subirlos a un data warehouse.
